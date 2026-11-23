@@ -1,10 +1,14 @@
 # The World Today — Monday, 23 November 2026
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/billkarxyz/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/billkarxyz/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 Entry for the make.fun bounty
 [news-image-20261123](https://make.fun/bounty/news-image-20261123):
 sum up the world's news of Monday 23 November 2026 in one image.
 
-`entry.png` (1920×1280) is a newspaper front page, generated for this entry,
+`entry.png` (1024×683) is a newspaper front page, generated for this entry,
 covering the day's biggest stories:
 
 - **COP31 collapses** — the climate summit in Antalya, Turkey, ends with no
